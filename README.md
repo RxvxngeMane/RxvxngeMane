@@ -1,16 +1,42 @@
-## Hi there 👋
+# Привет! Я разработчик 👋
 
-<!--
-**RxvxngeMane/RxvxngeMane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Создаю практические проекты, которые решают реальные задачи.
 
-Here are some ideas to get you started:
+## 🛠 Технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python** — основной язык
+- **aiogram 3** — разработка Telegram-ботов
+- **SQLite** — хранение данных
+- **SQLAlchemy** — работа с базой данных
+- **pytest** — автоматическое тестирование
+- **Git и GitHub** — контроль версий
+
+## 🚀 Мои проекты
+
+### 📅 BOOKING PRO — Telegram-бот для записи клиентов
+
+Бот для автоматизации записи клиентов на услуги.
+
+**Возможности:**
+- Запись на услуги с выбором даты и времени
+- Просмотр и отмена записей
+- Административная панель
+- Управление услугами и просмотр статистики
+- Напоминания о предстоящих записях
+- Хранение данных в SQLite
+- Автоматические тесты
+
+**Технологии:** Python, aiogram 3, SQLAlchemy, SQLite, pytest.
+
+🔗 [Посмотреть исходный код](https://github.com/RxvxngeMane/botmaster-booking)
+
+## 🎯 Мои цели
+
+- Развивать навыки Python и backend-разработки
+- Создавать полезные Telegram-боты и автоматизации
+- Пополнять портфолио практическими проектами
+- Получать опыт на реальных задачах
+
+## 📫 Контакты
+
+GitHub: [RxvxngeMane](https://github.com/RxvxngeMane)
